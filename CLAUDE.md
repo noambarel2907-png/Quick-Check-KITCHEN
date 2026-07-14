@@ -7,7 +7,9 @@
 
 ## קבצים
 
-- **`quickcheck-kitchen.html`** — הכלי עצמו. HTML+CSS+JS בקובץ אחד, RTL
+- **`index.html`** — הכלי עצמו (שם הקובץ חייב להישאר `index.html` כדי
+  ש-Cloudflare Pages יגיש אותו בשורש הדומיין `kitchen.noambarel.co.il`).
+  HTML+CSS+JS בקובץ אחד, RTL
   בעברית. 90 מתכונים מתוך חוברת "QuickCheck KITCHEN" (7 קטגוריות: QUICK/
   SALAD/ONE PAN/MORNING/BITES/SWEET/MAIN CHECK) מוטמעים כמערך `RECIPES`
   בתוך תג ה-`<script>`, כולל תמונת מנה (base64) לכל מתכון. כולל חיפוש
